@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## To Get Started
 
 ```bash
-npm create vite-app <project-name> --template AnnyTerfect/vite-router-vuetify
+npx degit AnnyTerfect/vite-router-vuetify my-vue-app
 ```
 
 ## Recommended IDE Setup
